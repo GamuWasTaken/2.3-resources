@@ -1,2 +1,3 @@
-# 2.3-resources
-A repo to store and share resources
+
+# ReVanced (https://github.com/ReVanced/revanced-manager)
+Aplicación de código abierto para parchear apks
